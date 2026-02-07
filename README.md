@@ -752,6 +752,6 @@ Migrating to S3 would require several architectural changes:
 
 ---
 
-**Developer**: Dhana (Finfully Full-Stack Intern Assignment)  
+**Developer**: Dhananjay Kumare (Finfully Full-Stack Intern Assignment)  
 **Date**: February 2026  
 **Time Spent**: ~90 minutes
